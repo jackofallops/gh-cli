@@ -1,0 +1,13 @@
+
+gh-cli
+
+*.dll
+*.exe
+.DS_Store
+bin/
+pkg/
+*.iml
+*.test
+
+.idea/
+.vscode/
